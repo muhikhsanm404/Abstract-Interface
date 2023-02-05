@@ -1,8 +1,8 @@
 # Abstract-Interface
 Tugas Praktikum Modul IX
 
-Nama : Muhammad Ikhsan Mandirri
-NIM : 21104410070
-Fakultas : Teknologi Informasi
-Prodi : Teknik Informatika
+Nama : Muhammad Ikhsan Mandirri <br>
+NIM : 21104410070 <br>
+Fakultas : Teknologi Informasi <br>
+Prodi : Teknik Informatika <br>
 Dosen Pengampu : Saiful Nur Budirman S.Kom M.Kom
